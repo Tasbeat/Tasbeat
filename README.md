@@ -4,7 +4,7 @@
 
 - 🌱 With work experience since 2018
 
--  <img height="24" width="24" src="https://user-images.githubusercontent.com/86986628/186820593-ae1adcaa-4ba2-4fe6-b2e0-3c07c55ddb57.gif"> Completed many projects and built many websites and apps
+-  <img height="24" width="24" src="https://user-images.githubusercontent.com/86986628/186820593-ae1adcaa-4ba2-4fe6-b2e0-3c07c55ddb57.gif"> Completed many projects and built websites and apps
 
 - 🔥 Interested in learning programming and respect all criticisms and suggestions of my work.
 
