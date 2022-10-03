@@ -1,4 +1,4 @@
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Dosis&size=40&pause=100&color=2196F3FF&center=true&vCenter=true&width=920&height=300&lines=Mobile+and+WordPress+Developer;Clean+Code;With+work+experience+since+2018;From+simple+projects+to+huge+projects;Completed+many+projects+and+built+websites+and+apps" alt="Typing SVG""></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Dosis&size=40&pause=100&color=2196F3FF&center=true&vCenter=true&width=920&height=300&lines=Mobile+and+WordPress+Developer;Clean+Code;With+work+experience+since+2018;From+simple+projects+to+huge+projects;Completed+many+mobile+projects+and+built+some+websites" alt="Typing SVG""></p>
 
 ### *Web and Mobile Developer*
 
