@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Tasbeat&label=Profile%20views&color=2196f3&style=flat" alt="Tasbeat" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tasbeat&theme=algolia&column=-1&margin-w=15" alt="Tasbeat" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tasbeat&theme=algolia&column=-1&margin-w=10" alt="Tasbeat" /></a> </p>
 
 
 
