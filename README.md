@@ -1,5 +1,14 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Dosis&size=40&pause=100&color=2196F3FF&center=true&vCenter=true&width=920&height=300&lines=Mobile+and+WordPress+Developer;Clean+Code;With+work+experience+since+2018;From+simple+projects+to+huge+projects;Completed+many+mobile+projects+and+built+some+websites" alt="Typing SVG""></p>
 
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Tasbeat&label=Profile%20views&color=2196f3&style=flat" alt="Tasbeat" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tasbeat&theme=algolia&column=-1&margin-w=15" alt="Tasbeat" /></a> </p>
+
+
+
+
 ### *Web and Mobile Developer*
 
 - 🌱 With work experience since 2018
