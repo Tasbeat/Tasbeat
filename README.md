@@ -8,7 +8,6 @@
 
 
 
-
 ### *Web and Mobile Developer*
 
 - 🌱 With work experience since 2018
@@ -42,5 +41,7 @@
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917486-146d3393-a4a6-470f-be1e-0791516d422d.svg" width="50" alt="VS" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186045949-1fb8064c-414e-4cf2-a3ca-c924a2e78cbc.png" width="50" alt="git" style="max-width: 100%;">
       <img height="50" src="https://user-images.githubusercontent.com/86986628/186043168-aede50c9-2543-4039-a23b-1bc1a768ccd2.png" width="50" alt="wp" style="max-width: 100%;">
+ <img height="50" src="https://pnggrid.com/wp-content/uploads/2021/05/Adobe-Illustrator-Logo-1024x998.png" width="50" alt="wp" style="max-width: 100%;">
+
 
 </p>
