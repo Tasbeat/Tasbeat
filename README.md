@@ -43,5 +43,6 @@
       <img height="50" src="https://user-images.githubusercontent.com/86986628/186043168-aede50c9-2543-4039-a23b-1bc1a768ccd2.png" width="50" alt="wp" style="max-width: 100%;">
  <img height="50" src="https://pnggrid.com/wp-content/uploads/2021/05/Adobe-Illustrator-Logo-1024x998.png" width="50" alt="wp" style="max-width: 100%;">
 
+ <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/2048px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" width="50" alt="wp" style="max-width: 100%;">
 
 </p>
