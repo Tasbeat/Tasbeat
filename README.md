@@ -45,5 +45,5 @@
 
 </p>
     
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="tasbeat" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ir.linkedin.com/in/tasbeat?trk=profile-badge">Ali Alirahimi</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="tasbeat" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ir.linkedin.com/in/tasbeat?trk=profile-badge">Ali Alirahimi</a></div>
               
