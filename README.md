@@ -44,3 +44,5 @@
  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/2048px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" width="50" alt="wp" style="max-width: 100%;">
 
 </p>
+    
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
