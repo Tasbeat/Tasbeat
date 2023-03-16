@@ -24,7 +24,7 @@
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasbeat&layout=compact&show_icons=true&title_color=00ADFE&icon_color=79ff97&text_color=fff&bg_color=30,7432FF,061b49" />
 </p>
 
-### *Contact Me --> [Telegram](https://t.me/Tasbeat) || *
+
 
 ## *Skill Set*
 
