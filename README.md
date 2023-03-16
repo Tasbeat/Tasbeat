@@ -8,7 +8,7 @@
     <br>
     <br>
     
-<img align="right" width="450" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Coding">
+<img align="right" width="600" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Coding">
  
 
 ### *Web and Mobile Developer*
