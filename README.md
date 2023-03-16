@@ -11,7 +11,7 @@
 <img align="center" width="1000" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Coding">
  
 <br>
-### Talking about Personal Stuffs:
+### Web And Mobile Developer
 
 - 🌱 With work experience since 2018
 
