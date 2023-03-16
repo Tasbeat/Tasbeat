@@ -45,5 +45,19 @@
 
 </p>
     
-LinkedIn: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="tasbeat" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ir.linkedin.com/in/tasbeat?trk=profile-badge">Ali Alirahimi</a></div>
+###  Connect with me 
+
+<p align="left">
+<a href="https://www.linkedin.com/in/tasbeat/" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://instagram.com/tasbeat.ir">
+<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
+<a href="https://api.whatsapp.com/send?phone=0989215622680">
+<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-4FCE5D?style=for-the-badge&logo=WhatsApp&logoColor=white" />
+</a>
+<a href="mailto:info@tasbeat.ir">
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
               
