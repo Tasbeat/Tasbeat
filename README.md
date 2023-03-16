@@ -59,5 +59,7 @@
 </a>
 <a href="mailto:alialirahimi642@gmail.com">
 <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>  
+<a href="https://t.me/tasbeat">
+<img alt="gmail" src="https://img.shields.io/badge/telegram-2196f3?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-              
