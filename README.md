@@ -57,7 +57,7 @@
 <a href="https://api.whatsapp.com/send?phone=0989215622680">
 <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-4FCE5D?style=for-the-badge&logo=WhatsApp&logoColor=white" />
 </a>
-<a href="mailto:info@tasbeat.ir">
-<img alt="mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:alialirahimi642@gmail.com">
+<img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
               
