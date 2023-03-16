@@ -6,9 +6,9 @@
 
 <br>
     <br>
-    <br>
+
     
-<img align="center" width="700" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Coding">
+<img algin="right" width="700" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Coding">
  
 
 ### *Web and Mobile Developer*
