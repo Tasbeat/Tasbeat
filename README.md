@@ -70,3 +70,10 @@
 <a href="https://t.me/tasbeat">
 <img alt="gmail" src="https://img.shields.io/badge/telegram-2196f3?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
+    
+    
+    ### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+
+---
+[![](https://visitcount.itsvg.in/api?id=iampawan&icon=0&color=1)](https://visitcount.itsvg.in)
